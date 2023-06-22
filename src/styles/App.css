@@ -1,1 +1,29 @@
-
+.list-container{
+    padding: 1rem;
+}
+.container{
+    padding: 1rem;
+    background-color: whitesmoke;
+}
+.container>input{
+    padding: 1rem;
+    outline: none;
+    border: none;
+    background-color: white;
+    font-size: 1rem;
+}
+.container>button{
+    padding: 1rem;
+}
+li{
+    padding: 0.3rem;
+    margin-bottom: 6px;
+    background-color: whitesmoke;
+}
+button{
+    padding: 0.3rem;
+    outline: none;
+    border: none;
+    background-color: rgb(241, 74, 74);
+    color: white;
+}
